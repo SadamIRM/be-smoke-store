@@ -1,4 +1,4 @@
-module github.com/Felannn/gin-backend.git
+module github.com/SadamIRM/be-smoke-store
 
 go 1.26.1
 
